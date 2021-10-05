@@ -1,0 +1,74 @@
+body
+{
+  border: 5px solid black;
+}
+h1
+{
+  text-align:center;
+  background-color:rgb(184,212,230);
+}
+table,th,td
+{
+  border:3px solid black;
+  border-radius: 5px;
+  border-collapse: collapse;
+  font-family: 'Lucida Sans';
+  font-size: 26px;
+  text-align: center;
+  margin-left: 30%;
+ }
+table#education  ,th #education,td #education
+{
+  border:3px solid black;
+  border-radius: 5px;
+  text-align: center;
+  background-color:whitesmoke;
+  font-family: 'Lucida Sans';
+  font-size: 26px; 
+  margin-left: 0%;
+}
+#education{
+
+  border-radius: 3px;
+}
+
+#heading
+{
+  text-align: center;
+  font-size:50px;
+}
+#img
+{
+  height:200px;  
+  width:200px; 
+  position: absolute;
+  top: 75px;
+  left:80%;
+}
+h2,h3,p,a,address
+{
+  font-family: 'times new roman';
+  font-size: 27px;
+}
+#skills,ol
+{
+  font-family: 'Lucida Sans';
+  font-size: 26px;
+  margin-left:39%;
+}
+.bgcol
+ {
+  background-color: lightgray; 
+ } 
+#sign
+ {
+    font-family: 'Lucida Sans';
+    text-align: right;
+    font-size: 26px;
+ }   
+#list
+ {
+    font-size: 26px;
+    font-family: 'Lucida Sans';
+    list-style-type:square"
+ }   
